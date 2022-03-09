@@ -10,8 +10,8 @@ This is a collection of basic scripts to common programming problems.
 -----
 # 🖱️ Contents
 
-- **Common FizzBuzz Solution:** *Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.* (This version is the shortest and most direct but isn't the most maintainable code if you need to make an addition. A prompt is given to select the end number.)
+- **Common FizzBuzz Solution:** *Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.* (This version is the shortest and most direct. A prompt is given to select the end number.)
 
 -----
 # ❔ How to use
-(in progress) currently make a fork, go to corresponding named html file, right click, inspect and go to console tab.
+(in progress) currently make a fork, go to corresponding named folder, open the html file, right click, inspect and go to console tab.
