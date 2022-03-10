@@ -12,7 +12,8 @@ This is a collection of basic scripts to common programming problems.
 -----
 # 🖱️ Contents
 
-- **FizzBuzz:** *Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.*
+- **Anagram:** *Write a function to check whether two strings are anagrams of each other. If so return are anagrams and if not return are not anagrams.*
+- **FizzBuzz:** *Write a function that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.*
 - **Palindrome Checker** *Write a function that when given a string returns true if the string is a palindrome or false otherwise.*
 
 -----
