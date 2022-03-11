@@ -16,6 +16,7 @@ This is a collection of basic scripts to common programming problems.
 - **Fibonacci Sequence** Write a function to find the 1000th term in the Fibonacci Sequence. (Calculates using the fibonacci formula and tail recursion to avoid crashing at large numbers.)
 - **FizzBuzz:** *Write a function that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.* (Using remainders check if something is a multiple of 3 and 5, just 3 or just 5. Log the rest of the items.)
 - **Palindrome Checker:** *Write a function that when given a string returns true if the string is a palindrome or false otherwise.*(Remove all empty space in the string, set to lower case, reverses a copy and see if it's the same as the original.)
+- **Pascal's Triangle:** *Write a function that finds the elements of the 9th row of Pascal's Triangle.* (Create the triangle, get the previous line, create anew line, populate it and insert the new line. Use recursion and return the values in an array.)
 
 -----
 # ❔ How to use
