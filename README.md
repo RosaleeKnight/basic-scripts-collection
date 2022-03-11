@@ -17,5 +17,9 @@ This is a collection of basic scripts to common programming problems.
 - **Pascal's Triangle:** *Write a function that finds the elements of the 9th row of Pascal's Triangle.* (Create the triangle, get the previous line, create anew line, populate it and insert the new line. Use recursion and return the values in an array.)
 
 -----
+# 💻 How to install 
+Installation not required.
+
+-----
 # ❔ How to use
 Fork the repo, head to the programming language folder, open the file in visual studio code and run in the terminal. To see javascript solutions using node.js is suggested. 
