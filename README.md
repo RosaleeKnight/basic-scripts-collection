@@ -10,11 +10,12 @@
 This is a collection of basic scripts to common programming problems. 
 
 -----
-# 🖱️ Contents
+# 🖱️ Contents JavaScript
 
-- **Anagram:** *Write a function to check whether two strings are anagrams of each other. If so return are anagrams and if not return are not anagrams.*
-- **FizzBuzz:** *Write a function that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.*
-- **Palindrome Checker** *Write a function that when given a string returns true if the string is a palindrome or false otherwise.*
+- **Anagram:** *Write a function to check whether two strings are anagrams of each other. If so return "are anagrams" and if not return "are not anagrams."* (Sorts the letters of each string alphabetically and compares if they are the same.)
+- **Fibonacci Sequence** Write a function to find the 1000th term in the Fibonacci Sequence. (Calculates using the fibonacci formula and tail recursion to avoid crashing at large numbers.)
+- **FizzBuzz:** *Write a function that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.* (Using remainders check if something is a multiple of 3 and 5, just 3 or just 5. Log the rest of the items.)
+- **Palindrome Checker:** *Write a function that when given a string returns true if the string is a palindrome or false otherwise.*(Remove all empty space in the string, set to lower case, reverses a copy and see if it's the same as the original.)
 
 -----
 # ❔ How to use
