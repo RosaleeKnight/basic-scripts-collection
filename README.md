@@ -20,9 +20,9 @@ This is a collection of basic scripts to common programming problems I've been a
 
 -----
 # 🖱️ Contents Python
-- **Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade. (Use if then elif then else statements to define.)
+- **Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
 - **Greeting** *Write a function when receiving a name returns a greeting based on wether or not it's the boss.* (Use if and === to test names.)
 
 -----
 # ❔ How to use
-Fork the repo, head to the programming language folder, open the file in visual studio code and run in the terminal. To see javascript solutions using node.js is suggested. 
+Fork the repo, head to the programming language folder, open the file in visual studio code and run in the terminal. To see javascript solutions using node.js is suggested. To see python solutions visual studio code with python extention is suggested.
