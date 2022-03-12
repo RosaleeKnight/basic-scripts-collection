@@ -1,5 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/RosaleeKnight/basic-scripts-collection)
 ![GitHub language count](https://img.shields.io/github/languages/count/RosaleeKnight/basic-scripts-collection)
+![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/RosaleeKnight/basic-scripts-collection)
+![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/RosaleeKnight/basic-scripts-collection)
 ![GitHub](https://img.shields.io/github/license/RosaleeKnight/basic-scripts-collection)
 ![GitHub issues](https://img.shields.io/github/issues/RosaleeKnight/basic-scripts-collection)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/basic-scripts-collection.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/basic-scripts-collection)
