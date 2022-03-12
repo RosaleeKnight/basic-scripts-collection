@@ -7,7 +7,7 @@
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/basic-scripts-collection.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/basic-scripts-collection)
 
 # 🖥️ Basic Scripts Collection
-This is a collection of basic scripts to common programming problems. 
+This is a collection of basic scripts to common programming problems I've been asked in the past.
 
 -----
 # 🖱️ Contents JavaScript
@@ -19,8 +19,8 @@ This is a collection of basic scripts to common programming problems.
 - **Pascal's Triangle:** *Write a function that finds the elements of the 9th row of Pascal's Triangle.* (Create the triangle, get the previous line, create anew line, populate it and insert the new line. Use recursion and return the values in an array.)
 
 -----
-# 💻 How to install 
-Installation not required.
+# 🖱️ Contents Python
+**Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade. (Uses if then elif then else statements to decide.)
 
 -----
 # ❔ How to use
