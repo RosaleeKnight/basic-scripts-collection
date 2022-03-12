@@ -21,7 +21,7 @@ This is a collection of basic scripts to common programming problems I've been a
 -----
 # 🖱️ Contents Python
 - **Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
-- **Greeting** *Write a function when receiving a name returns a greeting based on wether or not it's the boss.* (Use if and === to test names.)
+- **Greeting** *Write a function when receiving a name returns a greeting based on whether or not it's the boss.* (Use if and === to test names.)
 
 -----
 # ❔ How to use
