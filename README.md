@@ -22,8 +22,9 @@ This is a collection of basic scripts to common programming problems I've been a
 -----
 # 🖱️ Contents Python
 - **Add Prices:** *Write a function that adds the prices of groceries in a cart.* (Use a dictionary and add contents.)
-- **Exam Grade:** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
+- **Describe Furniture:** *Write a function to describe how a piece of furniture looks.* (Define what each piece looks like then call the item to insert the information.)
 - **Distance Converter:** *Write a function to turn miles into kilometers.* (Multiply by 1.6.)
+- **Exam Grade:** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
 - **Format Address:** *Write a function takes an address and describes the location.* (Split the string, use ifdigit to get the number listed then return the rest.)
 - **Greeting:** *Write a function when receiving a name returns a greeting based on whether or not it's the boss.* (Use if and === to test names.)
 - **Name Tag:** *Write a function to create a name tag with the persons full first name and first letter of their last name.* (First name plus position 0 of last name.)
