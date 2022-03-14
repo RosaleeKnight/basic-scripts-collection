@@ -24,6 +24,7 @@ This is a collection of basic scripts to common programming problems I've been a
 - **Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
 - **Greeting** *Write a function when receiving a name returns a greeting based on whether or not it's the boss.* (Use if and === to test names.)
 - **Prime Factors** *Write a function for the first 100 prime factors.* (Start at 2, check if dividable, if so print if not add 1.)
+- **Format Address** *Write a function takes an address and describes the location. (Split the string, use ifdigit to get the number listed then return the rest.)
 
 -----
 # ❔ How to use
