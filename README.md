@@ -26,6 +26,7 @@ This is a collection of basic scripts to common programming problems I've been a
 - **Prime Factors:** *Write a function for the first 100 prime factors.* (Start at 2, check if dividable, if so print if not add 1.)
 - **Format Address:** *Write a function takes an address and describes the location.* (Split the string, use ifdigit to get the number listed then return the rest.)
 - **Add Prices:** *Write a function that adds the prices of groceries in a cart.* (Use a dictionary and add contents.)
+- **Distance Converter:** Write a function to turn miles into kilometers. (Multiply by 1.6.)
 
 -----
 # ❔ How to use
