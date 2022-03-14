@@ -2,6 +2,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/RosaleeKnight/basic-scripts-collection)
 ![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/RosaleeKnight/basic-scripts-collection)
 ![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/RosaleeKnight/basic-scripts-collection)
+![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/RosaleeKnight/basic-scripts-collection)
 ![GitHub](https://img.shields.io/github/license/RosaleeKnight/basic-scripts-collection)
 ![GitHub issues](https://img.shields.io/github/issues/RosaleeKnight/basic-scripts-collection)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/basic-scripts-collection.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/basic-scripts-collection)
@@ -22,7 +23,8 @@ This is a collection of basic scripts to common programming problems I've been a
 # 🖱️ Contents Python
 - **Exam Grade** *Write a function for grading tests. 90% is top score, 70% is pass and everything else is a failing grade.* (Use if then elif then else statements to define.)
 - **Greeting** *Write a function when receiving a name returns a greeting based on whether or not it's the boss.* (Use if and === to test names.)
+- **Prime Factors** *Write a function for the first 100 prime factors.* (Start at 2, check if dividable, if so print if not add 1.)
 
 -----
 # ❔ How to use
-Fork the repo, head to the programming language folder, open the file in visual studio code and run in the terminal. To see javascript solutions using node.js is suggested. To see python solutions visual studio code with python extention is suggested.
+Fork the repo, head to the programming language folder, open the file in visual studio code and run in the terminal. To see javascript solutions using node.js is suggested. To see python solutions visual studio code with python extension is suggested.
